@@ -2,7 +2,9 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import './globals.css'
 import styles from './layout.module.css'
+// import { Inter } from '@next/font/google';
 
+// const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: '멋진 제품 사이트',
   description: '멋진 제품을 판매하는 곳입니다.'
